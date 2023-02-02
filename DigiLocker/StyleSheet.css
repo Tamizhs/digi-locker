@@ -1,0 +1,41 @@
+﻿body 
+{
+	background-color:#D6F2FD;
+	font-family:Arial;
+	font-size:10px;
+	margin-left:0px;
+	margin-top:0px;
+}
+
+.myhead
+{
+color:#073A71;
+font-family:Arial;
+font-size:14px;
+font-weight:bold;
+}
+submit
+{
+color:#073A71;
+font-family:Arial;
+font-size:14px;
+font-weight:bold;
+	
+}
+td
+{
+color:#3C668E;
+font-family:Arial;
+font-size:13px;
+font-weight:bold;
+
+}
+.message
+
+{
+color:#ff0000;
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+
+}
